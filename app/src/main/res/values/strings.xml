@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="true_button">Doğrudur</string>
+    <string name="false_button">Yanlışdır</string>
+
+    <string name="start_text"> Score: 0/14</string>
+
+    <string name="rightToast"> Cavab Doğrudur!!</string>
+    <string name="wrongToast">Cavab Səhvdir!!</string>
+
+   <string name="inital_question"> Mart ayında 30 gün var.</string>
+    <string name="question1">Sözün mənasını dəyişən səs fonem adlanır.</string> // true
+    <string name="question2">imiqrasiya əhalinin kpçüb getməsinə deyilir.</string> // false
+    <string name="question3">Apnoe nəfəsin dayanmasıdır.</string> // true
+    <string name="question4">Bitkilərdən ən qədimi buğdadır.</string> // true
+    <string name="question5">Paris ABŞ şəhəridir.</string> // false
+    <string name="question6">Azərbaycanda məhkəmə 3pilləlidir.</string> // true
+    <string name="question7">Təkhecalı sözlərin sonunda qoşa smitin hər ikisi yazılır.</string> // true
+    <string name="question8">Türkmənistanın pul vahidi manat adlanır.</string> // false
+    <string name="question9">Fen-şuy qədim Çin döyüş növüdür.</string> // false
+    <string name="question10">Günəş şüası yerə 10 dəqiqəyə çatır.</string> // false
+    <string name="question11">Küləyin gücü və sürəti 12 ballıq Rixter Şkalası ilə müəyyən olunur.</string> // false
+    <string name="question12">Mizantrop qorxaq adamlara deyirlər.</string> // false
+    <string name="question13">23 + 7 * 11 = 110.</string> // false
+
+</resources>
